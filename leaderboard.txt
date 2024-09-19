@@ -1,0 +1,5 @@
+Anastasiia 11 2 18.1818
+Kolya 24 20 83.3333
+
+rtyu 4 2 50
+rtyu 20 20 100
